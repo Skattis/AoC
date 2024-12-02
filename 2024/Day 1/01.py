@@ -39,7 +39,7 @@ def solve_pt_two(puzzle):
 
 
 if __name__ == "__main__":
-    left_list, right_list = read_puzzle("input1.txt")
+    left_list, right_list = read_puzzle("input.txt")
     # solution_pt_one = solve_pt_one((left_list, right_list))
     solution_pt_two = solve_pt_two((left_list, right_list))
     print(solution_pt_two)
