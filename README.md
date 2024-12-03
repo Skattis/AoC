@@ -12,3 +12,7 @@ Change the `.remove()` so the data itself does not get altered so I can perform 
 ### Day 2
 
 Either change whole logic (probably better) or refactor redundand code.
+
+### Day 3
+
+Find the right regex pattern - win
